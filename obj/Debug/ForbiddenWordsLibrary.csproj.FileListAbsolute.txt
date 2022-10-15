@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\ForbiddenWordsLibrary\bin\Debug\ForbiddenWordsLibrary.dll
+C:\Users\Vlad\source\repos\ForbiddenWordsLibrary\bin\Debug\ForbiddenWordsLibrary.pdb
+C:\Users\Vlad\source\repos\ForbiddenWordsLibrary\obj\Debug\ForbiddenWordsLibrary.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\ForbiddenWordsLibrary\obj\Debug\ForbiddenWordsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\ForbiddenWordsLibrary\obj\Debug\ForbiddenWordsLibrary.dll
+C:\Users\Vlad\source\repos\ForbiddenWordsLibrary\obj\Debug\ForbiddenWordsLibrary.pdb

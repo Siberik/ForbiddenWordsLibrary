@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForbiddenWordsLibrary", "ForbiddenWordsLibrary.csproj", "{05811300-201E-405E-B1F1-DA3297BF4956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForbiddenWordsLibraryTests", "ForbiddenWordsLibraryTests\ForbiddenWordsLibraryTests.csproj", "{0EA8BC8C-4359-444D-B15D-D93876EC5839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05811300-201E-405E-B1F1-DA3297BF4956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05811300-201E-405E-B1F1-DA3297BF4956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05811300-201E-405E-B1F1-DA3297BF4956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05811300-201E-405E-B1F1-DA3297BF4956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA8BC8C-4359-444D-B15D-D93876EC5839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA8BC8C-4359-444D-B15D-D93876EC5839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA8BC8C-4359-444D-B15D-D93876EC5839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA8BC8C-4359-444D-B15D-D93876EC5839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74943A06-EA64-4C13-B8DD-04FF9C8D0A00}
+	EndGlobalSection
+EndGlobal
