@@ -96,7 +96,7 @@ namespace ForbiddenWordsLibraryTests
         /// Обычная строка без редисок
         /// </summary>
         [TestMethod]
-        public void Censore_Normal_ReturnedNormal()
+        public void Censore_Normal_ReturnedNormalt()
         {
             //Arrange
             string text = "Это обычная строка, чего ты ждёшь?";

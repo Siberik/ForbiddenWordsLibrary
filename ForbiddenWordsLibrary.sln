@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForbiddenWordsLibrary", "Fo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForbiddenWordsLibraryTests", "ForbiddenWordsLibraryTests\ForbiddenWordsLibraryTests.csproj", "{0EA8BC8C-4359-444D-B15D-D93876EC5839}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadishPublicProject", "RadishPublicProject\RadishPublicProject.csproj", "{C781D5C6-1AD1-448D-8E77-2CAF2C86B452}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0EA8BC8C-4359-444D-B15D-D93876EC5839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EA8BC8C-4359-444D-B15D-D93876EC5839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EA8BC8C-4359-444D-B15D-D93876EC5839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C781D5C6-1AD1-448D-8E77-2CAF2C86B452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C781D5C6-1AD1-448D-8E77-2CAF2C86B452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C781D5C6-1AD1-448D-8E77-2CAF2C86B452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C781D5C6-1AD1-448D-8E77-2CAF2C86B452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
