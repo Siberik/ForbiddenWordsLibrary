@@ -25,15 +25,13 @@ namespace RadishPublicProject
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// Замена слово "редиска" на звёздочки "***"
+        /// </summary>
         private void ActiveButtonClick(object sender, RoutedEventArgs e)
         {
             RadishTextBox.Text = CensoreWordsClass.Censore(RadishTextBox.Text);
         }
 
-        private void ActiveButton_DragEnter(object sender, DragEventArgs e)
-        {
-
-        }
     }
 }
